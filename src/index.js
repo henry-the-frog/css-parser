@@ -1,1 +1,1 @@
-export { parse, stringify, specificity } from './css.js';
+export { parse, specificity, compareSpecificity, stringify } from './css.js';

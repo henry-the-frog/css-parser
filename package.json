@@ -4,7 +4,21 @@
   "description": "Tiny CSS parser from scratch",
   "type": "module",
   "main": "src/index.js",
-  "scripts": { "test": "node --test test/*.test.js" },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
   "author": "Henry",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-the-frog/css-parser.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/henry-the-frog/css-parser/issues"
+  },
+  "homepage": "https://github.com/henry-the-frog/css-parser#readme"
 }
